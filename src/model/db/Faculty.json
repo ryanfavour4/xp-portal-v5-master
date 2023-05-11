@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Garrik Rivalant",
+    "email": "grivalant0@joomla.org",
+    "gender": "Male",
+    "company": "Npath"
+  },
+  {
+    "id": 2,
+    "name": "Dew Gyer",
+    "email": "dgyer1@networkadvertising.org",
+    "gender": "Non-binary",
+    "company": "Mydeo"
+  },
+  {
+    "id": 3,
+    "name": "Gilbert Arthars",
+    "email": "garthars2@deliciousdays.com",
+    "gender": "Male",
+    "company": "Yakijo"
+  },
+  {
+    "id": 4,
+    "name": "Biron Mokes",
+    "email": "bmokes3@washington.edu",
+    "gender": "Male",
+    "company": "Gabspot"
+  },
+  {
+    "id": 5,
+    "name": "Spenser Westnage",
+    "email": "swestnage4@mapy.cz",
+    "gender": "Bigender",
+    "company": "Thoughtbeat"
+  },
+  {
+    "id": 6,
+    "name": "Joellen Kellington",
+    "email": "jkellington5@spiegel.de",
+    "gender": "Female",
+    "company": "Thoughtstorm"
+  },
+  {
+    "id": 7,
+    "name": "Lucy Lagadu",
+    "email": "llagadu6@yellowpages.com",
+    "gender": "Female",
+    "company": "Jabbertype"
+  },
+  {
+    "id": 8,
+    "name": "Ivette Querree",
+    "email": "iquerree7@marketwatch.com",
+    "gender": "Female",
+    "company": "Zooxo"
+  },
+  {
+    "id": 9,
+    "name": "Marmaduke Waszczykowski",
+    "email": "mwaszczykowski8@time.com",
+    "gender": "Male",
+    "company": "Riffpath"
+  },
+  {
+    "id": 10,
+    "name": "Regan Andreou",
+    "email": "randreou9@google.com",
+    "gender": "Male",
+    "company": "Tagfeed"
+  },
+  {
+    "id": 11,
+    "name": "Sigismundo Alabastar",
+    "email": "salabastara@dion.ne.jp",
+    "gender": "Male",
+    "company": "Edgeblab"
+  },
+  {
+    "id": 12,
+    "name": "Codi Schnitter",
+    "email": "cschnitterb@wordpress.com",
+    "gender": "Male",
+    "company": "Twitterlist"
+  }
+]
